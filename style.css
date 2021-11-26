@@ -1,0 +1,13 @@
+.block{
+    background: green;
+    height: 70px;
+    width: 70px;
+    margin: 50px 50px;
+}
+.css{
+    margin-top: 50px;
+    background: gray;
+    height: 100px;
+    padding: 10px;
+
+}
